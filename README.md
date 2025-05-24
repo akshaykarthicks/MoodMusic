@@ -44,20 +44,8 @@ Welcome to **TuneIn**, an AI-powered music streaming experience that adapts to y
 ---
 
 ## 📸 UI Preview
-
-| Welcome | Login | Mood Picker | Playlist View |
-|--------|--------|--------------|----------------|
-| ![1](assets/ui1.png) | ![2](assets/ui2.png) | ![3](assets/ui3.png) | ![4](assets/ui4.png) |
-
+https://www.figma.com/design/ht0GxK2N5GgF0N3KlLjSGn/Untitled?node-id=0-1&t=hLim7aHV4X08xMXM-1
 ---
 
-## 🧰 Tech Stack (To Be Built)
-- **Design:** Google Stitch
-- **Frontend:** React Native / Flutter (planned)
-- **Backend:** Node.js or Firebase (planned)
-- **AI Integration:** TensorFlow.js, MediaPipe (for real-time emotion detection)
-- **Auth:** Firebase Auth, OAuth APIs
 
----
 
-## 📂 Repo Structure
