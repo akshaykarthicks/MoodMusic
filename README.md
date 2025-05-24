@@ -3,8 +3,8 @@
 Welcome to **TuneIn**, an AI-powered music streaming experience that adapts to your mood. Whether you're feeling happy, sad, focused, or energetic, TuneIn creates the perfect personalized playlist for every moment.
 
 🛠 **Designed using [Google Stitch](https://stitch.google/)** —
-![Welcome Page](assets/screenshot.png) 
-![image](https://github.com/user-attachments/assets/d024a24f-2b08-4019-9bd3-c8c5fbde7af8)
+ 
+![Welcome Page](https://github.com/user-attachments/assets/d024a24f-2b08-4019-9bd3-c8c5fbde7af8)
 
 
 ---
